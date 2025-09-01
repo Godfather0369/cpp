@@ -47,26 +47,18 @@ using namespace std;
 void add(){
     int a,b;
     cout<<"Enter two numbers: ";
-
     cin>>a>>b;
-
     cout<<a<<endl;
     cout<<b<<endl;
 }
-
-
 int getTen(int n){
     return n;
 }
-
-
 int sqr(int n){
     return n*n;
 }
-
 int main(){
     // add();
     // add();
     cout<<10+getTen();
-
 }
