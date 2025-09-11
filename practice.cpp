@@ -61,4 +61,3 @@ int main(){
     // add();
     // add();
     cout<<10+getTen();
-}
